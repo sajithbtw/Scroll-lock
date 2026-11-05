@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ScrollLock</string>
+    <string name="accessibility_description">ScrollLock detects when a selected app is open during a focus session.</string>
+</resources>
